@@ -12,7 +12,8 @@
 
 4-Compilar o arquivo "ProjetoIntegrado.c" utilizando o compilador do Raspberry Pi Pico.
 
-Funções do código
+# Funções do código
+
 1- Botao A: Ativa/Desativa os leds RGB central da placa.
 
 2- Botao B: entra no modo bootsel do rp2040.
