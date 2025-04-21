@@ -22,6 +22,6 @@
 
 4- Reset: irá reinicar o jogo novamente, gerando novas posições para o quadradinho não preenchido.
 
-# Link do vídeo demonstando o funcionamento
+# Link do vídeo demonstrando o funcionamento
 
 Youtube: https://www.youtube.com/shorts/5NvyzZG-_0A
